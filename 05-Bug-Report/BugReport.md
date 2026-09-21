@@ -31,7 +31,7 @@
 
 ---
 
-## BUG-002 — Sorting Name A-Z Tidak Sesuai
+## BUG-002 — Button Remove tidak dapat menghapus produk
 
 | Field | Detail |
 |---|---|
