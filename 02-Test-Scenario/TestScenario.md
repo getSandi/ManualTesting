@@ -1,16 +1,5 @@
 # Test Scenario
 
-## Informasi Pengujian
-
-| Informasi       | Detail                |
-| --------------- | --------------------- |
-| Aplikasi        | SauceDemo (Swag Labs) |
-| Jenis Pengujian | Manual QA             |
-| Pendekatan      | Black Box Testing     |
-| Sistem Operasi  | Windows 10            |
-| Browser         | Google Chrome 152     |
-
----
 
 # 1. Login
 
